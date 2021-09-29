@@ -1,0 +1,7 @@
+.main-bottom-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../images/sub_vis_pt01.jpg);
+    margin: 75px 0 50px 0;
+}

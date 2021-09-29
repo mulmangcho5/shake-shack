@@ -1,0 +1,18 @@
+.contents-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+.contents-title span {
+    background: url(../images/blt_pt.gif)1px 6px repeat-x;
+    width: 100px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 20px;
+    text-indent: -10000em;
+}
+.contents-title h2 {
+    font-size: 30px;
+    font-family: 'Yeseva One', cursive;
+}

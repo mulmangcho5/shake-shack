@@ -1,0 +1,26 @@
+
+/* #iframe-youtube {
+    margin: 0 auto;
+    width:  100vw;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#iframe-youtube__vedio {
+    width: 2000px;
+    height: 800px;
+} */
+
+#iframe-youtube {
+    
+    
+    text-align: center;
+    
+}
+#iframe-youtube__vedio {
+    width: 2000px;
+    height: 1000px;
+    
+}

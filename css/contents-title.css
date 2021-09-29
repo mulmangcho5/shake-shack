@@ -13,6 +13,6 @@
     text-indent: -10000em;
 }
 .contents-title h2 {
-    font-size: 30px;
-    font-family: 'Yeseva One', cursive;
+    font-size: var(--contents-title__fontsize);
+    font-family: var(--contents-title__fontfamily);
 }

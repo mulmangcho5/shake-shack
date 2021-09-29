@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 @import url(reset.css);
 @import url(variable.css);
@@ -8,11 +8,14 @@
 @import url(contents-box-index.css);
 @import url(main-bottom-slide.css);
 @import url(footer.css);
+@import url(brand-story.css);
+@import url(delivery.css);
+@import url(anniversary_5th.css);
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Gothic A1', sans-serif;
+    font-weight: 400;
 }
-
 
 
 

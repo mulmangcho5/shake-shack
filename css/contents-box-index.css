@@ -3,22 +3,23 @@
     justify-content: center;
 }
 .contents-box-index__text{
-    width: 30%;
+    width: 33%;
     padding: 0 60px;
-    line-height: 24px;
+    line-height: 20px;
+    
 }
 .contents-box-index__text h3 {
     font-size: 20px;
-    font-weight: 600;
-    padding-bottom: 20px;
+    font-weight: 800;
+    padding-bottom: 25px;
 }
-.contents-box-index__text p{
+.contents-box-index__text__main{
     font-size: 14px;
-    font-weight: 600; 
     letter-spacing: 1px;
+    
 }
-.contents-box-index__text--small{
-    font-size: 6px;
+.contents-box-index__text__bottom {
+    font-size: 11px;
     color: #777;
     padding: 20px 0 50px 0;
 }
@@ -40,7 +41,7 @@
 .contents-box-index__social__icon li{
     padding: 0 30px;
     font-size: 13px;
-    font-weight: 600; 
+    font-weight: 400; 
     letter-spacing: 1px;
     
 }

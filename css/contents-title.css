@@ -15,4 +15,5 @@
 .contents-title h2 {
     font-size: var(--contents-title__fontsize);
     font-family: var(--contents-title__fontfamily);
+    font-weight: 800;
 }
